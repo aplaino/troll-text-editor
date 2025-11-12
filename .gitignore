@@ -1,0 +1,17 @@
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+# OS cruft
+.DS_Store
+Thumbs.db
